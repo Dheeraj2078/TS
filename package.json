@@ -1,0 +1,10 @@
+{
+  "name" : "hello-ts",
+  "license" : "NOLICENSE",
+  "devDependencies": {
+    "t,ypescript": "^5.3.3"
+  },
+  "scripts": {
+    
+  }
+}
